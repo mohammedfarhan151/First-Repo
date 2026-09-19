@@ -1,5 +1,4 @@
 # First-Repo
 This is my first git repository
-\n
-
+<br>
 Author - Farhan
